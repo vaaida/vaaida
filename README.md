@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @vaaida
 - 👀 I’m interested in human-AI interaction, conversational marketing, and crafting!
-- 🌱 I love ice-plunging
+- 🌱 I loved ice-plunging one winter exactly
 - 💞️ I’m looking to collaborate on research investigating human-AI interactions!
-- 📫 How to reach me: vaida@superinterface.ai
-- ⚡ Fun fact: I co-founded a startup that helps businesses add AI to their websites quicker, and smoother
+- 📫 How to reach me: vaida [@] supercorp.ai
 
 <!---
 vaaida/vaaida is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
